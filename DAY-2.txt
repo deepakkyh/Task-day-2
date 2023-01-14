@@ -1,0 +1,14 @@
+WINDOW-->
+
+Window can load any URL/Document and so on.
+It is parental.
+It is equal to complete browser.
+It firstly open with browser
+
+
+DOCUMENT-->
+
+It can load in window.
+It is based on window.
+It is just a file.
+It can't open without permission in browser.
